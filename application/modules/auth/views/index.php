@@ -17,7 +17,6 @@
         <div class="d-flex flex-column flex-root">
 			<div class="d-flex flex-column flex-column-fluid bgi-position-y-bottom position-x-center bgi-no-repeat bgi-size-contain bgi-attachment-fixed" style="background-image: url(<?=base_url() ?>assets/media/illustrations/sketchy-1/14.png">
 				<div class="d-flex flex-center flex-column flex-column-fluid p-10 pb-lg-20">
-					<img alt="Logo" src="<?=base_url('assets/media/logo.png') ?>" class="h-100px mb-5" />
 					<a href="javascript:void(0)" class="mb-7">
 						<h2 class="text-dark mb-0">Meeting Room Booking System</h2>
 					</a>
