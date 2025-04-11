@@ -8,8 +8,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>GC&amp;C Inc. | Booking</title>
-		<link rel="icon" type="image/x-icon" href="<?=base_url('assets/media/logo.png') ?>">
+        <title>Meeting Room Booking</title>
         <meta name="description" content="Latest updates and statistic charts">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -36,7 +35,6 @@
                             <div class="d-lg-none menu menu-lg-rounded menu-column menu-lg-row menu-state-bg menu-title-gray-700 menu-state-title-primary menu-state-icon-primary menu-state-bullet-primary menu-arrow-gray-400 fw-bold my-5 my-lg-0 align-items-stretch" id="#kt_header_menu" data-kt-menu="true">
                                 <div class="menu-item menu-lg-down-accordion me-lg-1">
                                     <a href="<?=base_url() ?>portal/dashboard" class="py-3 fs-4">
-                                        <img src="<?=base_url() ?>/assets/media/logo.png" alt="logo" class="h-30px logo">
                                         <span class="menu-title ms-3 text-black"><b>Meeting Room Booking System</b></span>
                                     </a>
                                 </div>
@@ -46,11 +44,7 @@
 								<div class="d-flex align-items-stretch" id="kt_header_nav">
 									<div class="header-menu">
 										<div class="menu menu-lg-rounded menu-column menu-lg-row menu-state-bg menu-title-gray-700 menu-state-title-primary menu-state-icon-primary menu-state-bullet-primary menu-arrow-gray-400 fw-bold my-5 my-lg-0 align-items-stretch" id="#kt_header_menu" data-kt-menu="true">
-                                            <div class="menu-item menu-lg-down-accordion me-lg-1">
-												<a href="<?=base_url() ?>portal/dashboard" class="py-3">
-													<img src="<?=base_url() ?>/assets/media/logo.png" alt="logo" class="h-45px logo">
-                                                </a>
-											</div>
+                                            <div class="menu-item menu-lg-down-accordion me-lg-1"></div>
                                             <div class="menu-item menu-lg-down-accordion me-lg-1">
 												<a href="<?=base_url() ?>portal/dashboard" class="px-3 py-3 fs-2" style="color: #363535">
 													<span class="menu-title"><b>Meeting Room Booking System</b></span>
